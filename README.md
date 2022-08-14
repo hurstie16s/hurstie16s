@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm a first year Uni Student (as of 2021) studying computer science at the University of Southampton.
+I am entering my second studying computer science at the University of Southampton this september.
 I have created projects in Java (javafx and maven projects), Python and C#.
 I am currently learning more java and starting to learn C.
-I have some ideas for projects to work on after my uni exams are finished in May.
+- 🔭 I’m currently working on a java application to allow me to record all swim times from any gala's I do and see how my times are progressing over time.
 
 <!--
 **hurstie16s/hurstie16s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
