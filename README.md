@@ -2,8 +2,9 @@
 
 I am entering my second studying computer science at the University of Southampton this september.
 I have created projects in Java (javafx and maven projects), Python and C#.
-I am currently learning more java and starting to learn C.
-- 🔭 I’m currently working on a java application to allow me to record all swim times from any gala's I do and see how my times are progressing over time.
+I now have a semi-working version for my swim time management system.
+- 🌱 I’m currently learning C and more Java
+- 🔭 I’m currently working on a java application to act as a task / project organiser and a calender in one. This is because I want something to help organise my time and I am bored so I thought it would be fun.
 
 <!--
 **hurstie16s/hurstie16s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
