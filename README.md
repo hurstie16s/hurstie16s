@@ -4,7 +4,7 @@ I am entering my second studying Computer Science (MEng) at the University of So
 I have created projects in Java (javafx and maven projects), Python and C#.
 I want to work on a project with C and I would like to create my own website.
 I now have a semi-working version for my swim time management system.
-I am now back in university so dwork on projects will be less often unfortunately.
+I am now back in university so work on projects will be less often unfortunately.
 - 🌱 I’m currently learning C, more Java and I am begining to learn web developement.
 - 🔭 I’m currently working on a java application to act as a task / project organiser and a calender in one. This is because I want something to help organise my time and I am bored so I thought it would be fun.
 
