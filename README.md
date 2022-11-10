@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am entering my second studying Computer Science (MEng) at the University of Southampton this September.
-I have created projects in Java (javafx and maven projects), Python and C#.
+I have created projects in Java (javafx and maven projects), Python, C# and Haskell.
 I want to work on a project with C and I would like to create my own website.
 I now have a semi-working version for my swim time management system.
 Due to being back in university, work on projects will be less often unfortunately.
