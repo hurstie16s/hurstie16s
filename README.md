@@ -5,8 +5,8 @@ I have created projects in Java (javafx and maven projects), Python and C#.
 I want to work on a project with C and I would like to create my own website.
 I now have a semi-working version for my swim time management system.
 Due to being back in university, work on projects will be less often unfortunately.
-- 🌱 I’m currently learning C and Haskell
-- 🔭 I’m currently working on a java application to act as a task / project organiser and a calender in one. This is because I want something to help organise my time and I am bored so I thought it would be fun.
+- 🌱 I’m currently learning C and Haskell.
+- I' currently looking into using flutter for a UI for applications
 
 <!--
 **hurstie16s/hurstie16s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
