@@ -5,7 +5,7 @@ I have created projects in Java (javafx and maven projects), Python, C# and Hask
 I want to work on a project with C and I would like to create my own website.
 I now have a semi-working version for my swim time management system.
 Due to being back in university, work on projects will be less often unfortunately.
-- 🌱 I’m currently learning C and Haskell.
+- 🌱 I’m currently learning Dart and Haskell.
 - I' currently looking into using flutter for a UI for applications
 
 <!--
