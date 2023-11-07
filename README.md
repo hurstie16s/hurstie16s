@@ -4,6 +4,8 @@
 Created projects in Java (javafx and Maven projects), Python, C# and Haskell.
 - Recent Projects:
   - Runway Redecleration Tool group project (Java 17 & Javafx 17) (University)
+- Upcoming Projects
+    - Cloud Application Development Group Project
  
 I am working on my Part III Individual Project automated IoT virtualisation for security testing purposes.
 
