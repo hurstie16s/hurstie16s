@@ -2,6 +2,8 @@
 
 3rd year student studying Computer Science (MEng) at the University of Southampton.
 Created projects in Java (javafx and Maven projects), Python, C# and Haskell.
+- Currently learning
+  - Go
 - Past Projects:
   - Runway Redecleration Tool group project (Java 17 & Javafx 17) (University)
 - Current Projects
