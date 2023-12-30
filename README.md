@@ -6,8 +6,11 @@ Created projects in Java (javafx and Maven projects), Python, C# and Haskell.
   - Go
 - Past Projects:
   - Runway Redecleration Tool group project (Java 17 & Javafx 17) (University)
+  - Jackbox style game (University)
+    - Frontend: Python 3.10 with Azure
+    - Backend: NodeJS with GAE
 - Current Projects
-    - Cloud Application Development Group Project (Python, JavaScript & Azure) (University)
+    - Cloud Application Development Group Project (Python 3.10, JavaScript & Azure) (University)
     - Part III Individual Project: IoT Virtualisation for Security Testing (University)
 
 <!--
