@@ -1,16 +1,20 @@
 ### Hi there 👋
 
 3rd year student studying Computer Science (MEng) at the University of Southampton.
-Created projects in Java (javafx and Maven projects), Python, C# and Haskell.
+Created projects in Java (JavaFX and Maven projects), Python, C# and Haskell.
 - Currently learning
   - Go
 - Past Projects:
   - Runway Redecleration Tool group project (Java 17 & Javafx 17) (University)
   - Jackbox style game (University)
-    - Frontend: Python 3.10 with Azure
-    - Backend: NodeJS with GAE
+    - Backend: Python 3.10 with Azure
+    - Frontend: NodeJS with GAE
 - Current Projects
-    - Cloud Application Development Group Project (Python 3.10, JavaScript & Azure) (University)
+    - Cloud Application Development Group Project (University)
+      - Backend: Python 3.10
+      - Frontend: NodeJS
+      - Cloud Services: Azure
+      - I worked on the backend team and managed the GitHub repository
     - Part III Individual Project: IoT Virtualisation for Security Testing (University)
 
 <!--
