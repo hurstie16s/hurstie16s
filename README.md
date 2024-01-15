@@ -9,12 +9,12 @@ Created projects in Java (JavaFX and Maven projects), Python, C# and Haskell.
   - Jackbox style game (University)
     - Backend: Python 3.10 with Azure
     - Frontend: NodeJS with GAE
-- Current Projects
-    - Cloud Application Development Group Project (University)
+  - Cloud Application Development Group Project (University)
       - Backend: Python 3.10
       - Frontend: NodeJS
       - Cloud Services: Azure
       - I worked on the backend team and managed the GitHub repository
+- Current Projects
     - Part III Individual Project: IoT Virtualisation for Security Testing (University)
 
 <!--
