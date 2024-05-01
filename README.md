@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-3rd year student studying Computer Science (MEng) at the University of Southampton.
+3rd year student studying Computer Science (MEng) at the University of Southampton.  
 Created Java (JavaFX and Maven projects), Python, C# and Haskell projects.
 Interested in automation, cryptography, backend software development and cyber security.
 I prefer to build things instead of theorising about their design and how/ if they would work.
