@@ -6,7 +6,8 @@ Built projects in:
   - Python
   - C#
   - Haskell
-  - Go  
+  - Go
+
 Interested in automation, cryptography, backend software development and cyber security.  
 I prefer to build things instead of theorising about their design and how/ if they would work.
 
