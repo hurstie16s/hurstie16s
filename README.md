@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-3rd year student studying Computer Science (MEng) at the University of Southampton.  
+3rd year student studying for MEng Computer Science at the University of Southampton.  
 Built projects in:
   - Java (with JavaFX and Maven)
   - Python
