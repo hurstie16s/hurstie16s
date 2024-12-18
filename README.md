@@ -7,25 +7,14 @@ Built projects in:
   - C#
   - Haskell
   - Go
+  - C
+  - PHP
 
 Interested in automation, cryptography, backend software development and cyber security.  
 I prefer to build things instead of theorising about their design and how/ if they would work.
 
 Completed my Part III Individual Project on IoT Virtualisation for Security Testing, developing the AutoEMU tool.
-
-- University Projects:
-  - Runway Redecleration Tool group project (Java 17 & Javafx 17)
-  - Jackbox style game
-    - Backend: Python 3.10 with Azure
-    - Frontend: NodeJS with GAE
-  - Cloud Application Development Group Project
-      - Backend: Python 3.10
-      - Frontend: NodeJS
-      - Cloud Services: Azure
-      - I worked on the backend team and managed the GitHub repository
-  - Networks Exemplar Project
-  - Machine Learning for Security
-
+Received a 1st
 <!--
 **hurstie16s/hurstie16s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
