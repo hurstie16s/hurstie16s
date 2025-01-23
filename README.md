@@ -1,14 +1,10 @@
 ### Hi there 👋
 
 4th year student studying for MEng Computer Science at the University of Southampton.  
-Built projects in:
-  - Java (with JavaFX and Maven)
-  - Python
-  - C#
-  - Haskell
-  - Go
-  - C
-  - PHP
+Top Languages:
+ - Go
+ - C
+ - Python
 
 Interested in automation, cryptography, backend software development and cyber security.  
 I prefer to build things instead of theorising about their design and how/ if they would work.
