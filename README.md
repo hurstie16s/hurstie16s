@@ -6,11 +6,13 @@ Top Languages:
  - C
  - Python
 
-Interested in automation, cryptography, backend software development and cyber security.  
+Interested in automation, cryptography, backend software development and cybersecurity.  
 I prefer to build things instead of theorising about their design and how/ if they would work.
 
 Completed my Part III Individual Project on IoT Virtualisation for Security Testing, developing the AutoEMU tool.
 Received a 1st
+
+Currently working on a project to implement lattice-based cryptography in Go without the use of cryptographic libraries.
 <!--
 **hurstie16s/hurstie16s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
