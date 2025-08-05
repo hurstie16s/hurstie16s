@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-4th year student studying for MEng Computer Science at the University of Southampton.  
+Graduated from the University of Southampton with a high 2:1 in MEng Computer Science.
+
 Top Languages:
- - Go
+![Golang](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
  - C
  - Python
 
