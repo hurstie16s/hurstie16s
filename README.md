@@ -3,9 +3,9 @@
 Graduated from the University of Southampton with a high 2:1 in MEng Computer Science.
 
 Top Languages:<br>
-![Golang](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
- - C
- - Python
+![Golang](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)<br>
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)<br>
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)<br>
 
 Interested in automation, cryptography, backend software development and cybersecurity.  
 I prefer to build things instead of theorising about their design and how/ if they would work.
