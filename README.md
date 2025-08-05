@@ -2,7 +2,7 @@
 
 Graduated from the University of Southampton with a high 2:1 in MEng Computer Science.
 
-Top Languages:
+Top Languages:<br>
 ![Golang](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
  - C
  - Python
